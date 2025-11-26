@@ -1,0 +1,46 @@
+{
+  "models": [
+    {
+      "name": "Proton Saga MC3 Premium",
+      "price_otr": "RM 44,800",
+      "monthly_min": "RM 488",
+      "downpayment": "0% (Penuh/Full Loan)",
+      "short_copy": "Saga MC3 Premium – Bulanan dari RM488 sahaja. Kereta Rakyat Pilihan Ramai.",
+      "image": "saga_mc3.jpg"
+    },
+    {
+      "name": "Proton S70 Standard",
+      "price_otr": "RM 73,800",
+      "monthly_min": "RM 780",
+      "downpayment": "0%",
+      "short_copy": "S70 – Sedan Paling Canggih, Rasa Bawa Kereta Eropah. Cepat mohon unit fast moving!",
+      "image": "s70.jpg"
+    },
+    {
+      "name": "Proton X50 Executive",
+      "price_otr": "RM 93,300",
+      "monthly_min": "RM 990",
+      "downpayment": "10% atau 0% (Syarat)",
+      "short_copy": "X50 – SUV Popular No. 1 Malaysia. Rebut unit terhad sekarang.",
+      "image": "x50.jpg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Gaji RM1,500 boleh mohon untuk Saga?",
+      "answer": "Boleh, bergantung kepada komitmen sedia ada dan kiraan DSR (Debt Service Ratio). Hubungi Zaid untuk semakan 5 minit."
+    },
+    {
+      "question": "Jika saya tiada slip gaji?",
+      "answer": "Ada cara alternatif! Kita boleh gunakan penyata bank 6 bulan bersama surat pengesahan kerja atau dokumen pendapatan lain. Jangan risau."
+    },
+    {
+      "question": "Berapa lama proses lulus loan?",
+      "answer": "Seawal 6-24 jam bekerja, dengan dokumen lengkap. Zaid akan update progress bank setiap 2 jam."
+    },
+    {
+      "question": "Saya baru kerja 3 bulan, boleh ke?",
+      "answer": "Boleh, tetapi memerlukan dokumen tambahan seperti surat pengesahan jawatan dan penyata KWSP. Kita akan cuba yang terbaik."
+    }
+  ]
+}
